@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # react-offers-app
 
 
